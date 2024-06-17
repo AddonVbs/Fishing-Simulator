@@ -34,7 +34,7 @@
 >>>> it will help you reduce your time farming and improve your lvl
 >>
 >>
->>>>>> https://github.com/AddonVbs/Fishing-Simulator/assets/102360273/44e15127-23d7-49ce-8ae5-09cf08e707ae
+>>https://github.com/AddonVbs/Fishing-Simulator/assets/102360273/44e15127-23d7-49ce-8ae5-09cf08e707ae
 >>
 >>
 >>
