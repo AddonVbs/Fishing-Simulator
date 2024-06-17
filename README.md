@@ -9,5 +9,9 @@
 >>record the number of clicks required to reeling speed >>
 >>
 >>![image](https://github.com/AddonVbs/Fishing-Simulator/assets/102360273/3c512481-12b3-4353-8956-6acc56491e84)
-
-
+>>
+>>
+>>>>             this program only works in Port Jackson
+>>
+>>![image](https://github.com/AddonVbs/Fishing-Simulator/assets/102360273/0bde9254-a986-40c6-a247-3ba59cb7600e)
+>>
