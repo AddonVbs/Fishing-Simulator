@@ -5,7 +5,9 @@
 >>
 >>
 >>
->>record the number of clicks required to reeling speed ![image](https://github.com/AddonVbs/Fishing-Simulator/assets/102360273/3c512481-12b3-4353-8956-6acc56491e84)
+>>record the number of clicks required to reeling speed
+>>
+>>![image](https://github.com/AddonVbs/Fishing-Simulator/assets/102360273/3c512481-12b3-4353-8956-6acc56491e84)
 >
 >>>
 >>
