@@ -1,6 +1,7 @@
 >>
 >> write how much space you have in your bagwrite how much space you have in your bag >>
->>![image](https://github.com/AddonVbs/Fishing-Simulator/assets/102360273/1d388fef-71b2-4809-921a-149e29e0ae75)
+>>![image](https://github.com/AddonVbs/Fishing-Simulator/assets/102360273/e80d6174-102f-4fdc-87af-9d25e3c6ebde)
+
 
 >>
 >>
@@ -9,7 +10,8 @@
 >>
 >>record the number of clicks required to reeling speed >>
 >>
->>![image](https://github.com/AddonVbs/Fishing-Simulator/assets/102360273/3c512481-12b3-4353-8956-6acc56491e84)
+>>![image](https://github.com/AddonVbs/Fishing-Simulator/assets/102360273/d038d45b-0115-4b48-87e5-434f899f62a0)
+>>
 >>
 
 
