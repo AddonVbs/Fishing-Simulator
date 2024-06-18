@@ -37,11 +37,12 @@
 >>>> it will help you reduce your time farming and improve your lvl
 >>
 >>
->>https://github.com/AddonVbs/Fishing-Simulator/assets/102360273/44e15127-23d7-49ce-8ae5-09cf08e707ae
+>>![photo_2024-06-18_15-27-40](https://github.com/AddonVbs/Fishing-Simulator/assets/102360273/1362c7b9-4128-4596-85ac-8743df212c9f)
 >>
 >>
 >>
 >>
+
 >> tutor gide -----> https://youtu.be/Yvb_YHcQ9EE?si=2lLbdGPFhJD6O-CZ
 
 
