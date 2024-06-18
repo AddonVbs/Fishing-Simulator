@@ -1,6 +1,7 @@
 >>
 >> write how much space you have in your bagwrite how much space you have in your bag >>
->>![image](https://github.com/AddonVbs/Fishing-Simulator/assets/102360273/79f35fc4-f7b0-4e77-8bdb-a1b86fbfdee8)
+>>![image](https://github.com/AddonVbs/Fishing-Simulator/assets/102360273/1d388fef-71b2-4809-921a-149e29e0ae75)
+
 >>
 >>
 >>
